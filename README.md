@@ -1,5 +1,7 @@
 # BBBC021_Morpheus_Exercise
 
+(See the video versions of this - [Part 1](https://youtu.be/0nkYDeekhtQ) - [Part 2](https://youtu.be/r9mN6MsxUb0))
+
 Files and instructions for exploring per-well mean profile data from the [BBBC021 public data set](https://bbbc.broadinstitute.org/BBBC021); see this site for information on how the data set was created, other works using this data set, etc.
 
 Per-well mean data, image metadata, and MOA data were pulled from the [cytominer_gallery](https://github.com/cytomining/cytominergallery/tree/master/inst/extdata) repository. See that repository for vignettes on how to explore this data set with R.
